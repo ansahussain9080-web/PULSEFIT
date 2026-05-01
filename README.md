@@ -14,7 +14,8 @@ Lovable AI – For generating website layout and structure
 ChatGPT – For content creation, ideas, and documentation
 AI Design Assistance Tools – For UI/UX improvement and styling suggestions
 Image Generation AI – For gym visuals and banners
-✨** Key Features**
+
+✨**Key Features**
 🏠 Modern Homepage with attractive UI and hero section
 📖 About Us Section explaining mission and fitness goals
 💪 Fitness Programs showcasing workout plans and services
@@ -24,12 +25,14 @@ Image Generation AI – For gym visuals and banners
 🎨 Soft and attractive color theme for better user experience
 ⚡ Fast loading and optimized layout
 🤖 AI-generated design structure for better UX
+
 🎯 **Learning Outcomes**
 Understanding AI tools in web development
 Learning responsive website design
 Improving UI/UX design thinking
 Practical implementation of frontend structure
 Real-world project experience using Generative AI
+
 📌 **Tech Stack**
 HTML
 CSS
